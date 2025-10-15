@@ -1,0 +1,16 @@
+{
+	"name": "DS_GIT_Asql",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_GIT_Asql",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "ordernew5"
+		}
+	}
+}
